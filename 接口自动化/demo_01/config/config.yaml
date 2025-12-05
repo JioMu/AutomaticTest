@@ -1,0 +1,8 @@
+base:
+  baseUrl: "http://192.168.3.126:8024"
+  timeout: 10
+  max_retries: 3
+
+logging:
+  level: info
+  file: "logs/api_test.log"
